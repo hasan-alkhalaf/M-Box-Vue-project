@@ -169,7 +169,7 @@ export default {
     margin-right: 40px;
 
     .movie-card {
-      border: 1px solid rgb(59, 39, 150);
+      border: 1px solid rgb(61, 41, 146);
       border-radius: 10%;
       overflow: hidden;
       height: 300px;
