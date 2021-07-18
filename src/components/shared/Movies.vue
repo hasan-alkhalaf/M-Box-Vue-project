@@ -175,7 +175,7 @@ export default {
       height: 300px;
       width: 200px;
       background-color: rgb(37, 32, 32);
-      margin: 10px auto;
+      margin: 10px 20px;
       position: relative;
       cursor: pointer;
 
